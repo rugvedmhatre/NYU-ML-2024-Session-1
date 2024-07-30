@@ -1,24 +1,25 @@
-Name,Rising Grade,Town,Movie,Category,IMDB Rating,Coding experience
-Moana Olson,11,"Boise, ID",The nightmare before christmas,Animation,7.9,3
-Ethan Li,12,"Bellevue, WA",Knives Out,Mystery,7.9,3
-Zain Baksh,11,"Bellrose, NY",RoboCop,Action,7.6,3
-Theo Chen,11,"Redmond, WA",Spider Man: Across The Spiderverse,Action,8.6,2
-Angela Sun,12,"Green Brook, NJ",Driving Miss Daisy,Comedy,7.1,3
-Serafina Guadagni,12,"Essen, Germany",before sunrise,Comedy,8.1,3
-Kavya Barathy,12,"Monroe, NJ",The Dark Knight,Action,9,3
-Dillan Reddy,11,"Columbus, OH",Avengers: Endgame,Action,8.4,3
-Adi Rath,11,"Princeton, NJ",Pacific Rim,Sci-Fi,6.9,3
-Elina Fan,11,Fremont,Guardians of the Galaxy: Vol 3.,Action,7.9,4
-Polina Smolyanskiy,11,"Fair Lawn, NJ",Little Miss Sunshine,Comedy,7.8,3
-Aanvi Desai,11,"Morris Plains, NJ",Hunger Games,Action,7.2,3
-Steven Hsu,12,"Taipei, Taiwan",All Quiet on the Western Front,Action,7.8,3
-Henry Wei,11,"Beijing, China",Wandering Earth 2,Sci-Fi,6.8,2
-Cameron Jiang,11,San Jose,Midway,Action,6.7,4
-Matthew Li,11,Los Angeles,Parasite,Drama,8.5,4
-Connor Chen,11,"Millburn, NJ",Oppenheimer,Thriller,8.3,4
-Aarna Bhammar ,12,"Bangalore, India",Inside out,Animation,8.1,4
-Daniel Zhu,11,"Scarsdale, NY",Interstellar,Sci-Fi,8.7,3
-Gua Xia,10,"Bangkok, Thailand",Maze runner,Action,6.8,3
-Asher Cook-Selman,11,"Manhattan, NY",,,,4
-Henry Rothbard,11,"Greenwich, CT",Cars,Animation,7.2,4
-Evelyn Zhu,10,"Queens, NY",Pride and Prejudice,Romance,7.8,3
+Name,Movie,Category,IMDB Rating,Coding experience (1-5)
+Griffin,Inception,Action,8.8,5
+Andrew,Interstellar,Adventure,8.7,3
+Darshan,Oppenheimer,Thriller,8.3,3
+Kevin,The Creator,Sci-Fi,6.7,3
+Lucas,Interstellar,Action,8.7,5
+Grace,The Greatest Showman,Thriller,7.5,2
+Audrey,hunger games catching fire ,Adventure,7.5,3
+Eileen,white chicks,Comedy,5.8,3
+Ryan,SuperBabies: Baby Geniuses,Thriller,2.6,5
+Charles,Starwars,Sci-Fi,8.6,5
+Ella,Oppenheimer,Thriller,8.3,4
+Dom,Interstellar,Action,8.7,5
+Harry,Pirates of the Caribbean,Action,8.1,5
+Sania,Lord of the rings,Adventure,8.9,5
+Maria,Money Heist,Action,8,3
+Mihir,Wolf of Wall Street,Comedy,8.2,5
+Simran,Divergent,Action,6.6,5
+Chloe,Top Gun: Maverick,Action,8.2,3
+Mark,SuperBabies: Baby Geniuses 2,Drama,1.5,4
+Zach,Pirates of the Caribbean,Adventure,8.1,5
+Timmy,Dumb and Dumber,Comedy,7.3,4
+Michael,Good Will Hunting,Action,8.3,3
+Ken,Godzilla minus one,Action,7.7,5
+Dereck,Fortnite: The Movie,Romance,10,5
